@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "cooking-companion",
+      "name": "Cooking Companion",
+      "description": "Hands-free cooking assistant - find a recipe, walk through it step by step and run kitchen timers by voice. Use when the user wants to cook something, asks for a recipe, needs help in the kitchen or asks for a cooking timer.",
+      "archive": "skills/cooking-companion.zip"
+    },
+    {
+      "id": "language-practice",
+      "name": "Language Practice",
+      "description": "Conversational foreign language practice - everyday spoken dialogue with gentle corrections, a word of the day and progress tracking. Use when the user wants to practice or learn a foreign language, asks to talk in another language or to train vocabulary.",
+      "archive": "skills/language-practice.zip"
+    },
+    {
+      "id": "movie-night",
+      "name": "Movie Night",
+      "description": "Recommend movies and TV shows to watch tonight - personalised picks based on the user's tastes and fresh ratings. Use when the user asks what to watch, wants a movie or series recommendation, or is planning a movie night.",
+      "archive": "skills/movie-night.zip"
+    }
+  ]
+}
