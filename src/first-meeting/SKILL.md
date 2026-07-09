@@ -29,7 +29,8 @@ you know nothing about them yet — this conversation is where you fix that.
   from your system prompt, replace the template placeholders with what you
   learned, and keep anything the user already wrote there.
 - Confirm in one short sentence that you saved it, and mention they can always
-  review or edit their profile on the Character page.
+  review or edit their profile on the Character page. Never read the document
+  text back to the user — they know what they told you.
 - If more details come up later in the conversation, update the profile again
   the same way.
 
